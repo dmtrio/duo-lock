@@ -1,7 +1,7 @@
 {
-  "name": "local-auth-passport-lab",
-  "version": "0.0.1",
-  "description": "WDI lab about implementing passport with mongoose and express",
+  "name": "duo-lock",
+  "version": "1.0.0",
+  "description": "Exploring Duo Security API",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +25,15 @@
     "passport-local": "~0.1.6",
     "passport-twitter": "~1.0.2"
   },
-  "author": "gerry Mathe",
-  "license": "ISC"
+  "devDependencies": {},
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmtrio/duo-lock.git"
+  },
+  "author": "Duo-lock",
+  "bugs": {
+    "url": "https://github.com/dmtrio/duo-lock/issues"
+  },
+  "homepage": "https://github.com/dmtrio/duo-lock#readme"
 }
